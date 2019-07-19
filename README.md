@@ -52,3 +52,5 @@ This dataset (in the 'master' branch) has been utilized in the paper:
 	HAL_ID = {hal-02178353},
 	HAL_VERSION = {v1},
 	}
+	
+Please refer to the respective publication when using this data.
